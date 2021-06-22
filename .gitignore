@@ -56,3 +56,4 @@ ipch/
 *.opendb
 *.db
 coverage/
+/clients/cpp/out/build/x64-Debug
